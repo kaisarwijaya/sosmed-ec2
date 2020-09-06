@@ -1,9 +1,9 @@
 <?php
 
 $db_host = "localhost"; #change the data
-$db_user = "devops";
-$db_pass = "Admin123";
-$db_name = "dbsosmed";
+$db_user = "devops";#change the data
+$db_pass = "Admin123";#change the data
+$db_name = "dbsosmed";#change the data
 
 try {    
     //create PDO connection 
